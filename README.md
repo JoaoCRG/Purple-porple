@@ -1,5 +1,5 @@
 # Purple-porple
-* This is my first group project using Java and Simpl grfx's <Academia de Código_> after 3 weeks of an intensive bootcamp.
+* This is my first group project using Java and Simpl grfx's <Academia de Código_> library after 3 weeks of an intensive && immersive bootcamp.
 
 # About our beautiful game
 * We were given a colour as theme for our game wich was phlox-purple , and using the name of the two classes (<SHELLbys_> && <Shhpartans_>) we developed it.
