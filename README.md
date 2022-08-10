@@ -8,8 +8,11 @@
 
 
 # How to Run 
+
 1 - Open terminal and move to the folder where purple-porple.jar is stored 
+
 2 - Run java -jar purple-porple.jar
+
 3 - Enjoy
 
 
